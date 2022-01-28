@@ -1,0 +1,31 @@
+{
+  "version": "a7eb3997",
+  "entry": {
+    "module": "/build/entry.client-X2O2EISC.js",
+    "imports": [
+      "/build/_shared/chunk-2L6YX5YF.js"
+    ]
+  },
+  "routes": {
+    "root": {
+      "id": "root",
+      "path": "",
+      "module": "/build/root-3N4G4PNL.js",
+      "hasAction": false,
+      "hasLoader": false,
+      "hasCatchBoundary": false,
+      "hasErrorBoundary": false
+    },
+    "routes/index": {
+      "id": "routes/index",
+      "parentId": "root",
+      "index": true,
+      "module": "/build/routes/index-UJUHD6BU.js",
+      "hasAction": false,
+      "hasLoader": true,
+      "hasCatchBoundary": false,
+      "hasErrorBoundary": false
+    }
+  },
+  "url": "/build/manifest-A7EB3997.js"
+}
