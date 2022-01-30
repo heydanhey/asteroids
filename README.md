@@ -1,4 +1,4 @@
-# Welcome to Asteroids!
+# Welcome to Asteroids! 
 
 ![Asteroids](./asteroid-icon.png)
 
