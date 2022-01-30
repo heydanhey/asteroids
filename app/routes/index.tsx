@@ -1,10 +1,11 @@
 import { useLoaderData } from "remix";
+import { useEffect, useState } from "react";
 import { Earth } from "../src/Earth";
 import { Asteroid } from "../src/Asteroid";
 import ReactTooltip from "react-tooltip";
 
 export interface AsteroidType {
-  id: string
+  id: string    
   name: string
   absolute_magnitude_h: number
   is_potentially_hazardous_asteroid: boolean,
@@ -37,9 +38,13 @@ export const loader = async () => {
 
 export default function Index() {
   const asteroids = useLoaderData();
+  const [isClient, setIsClient] = useState(false);
+
+  useEffect(() => setIsClient(true), [setIsClient]);
+
   return (
       <>
-        <ReactTooltip multiline={true} />
+        {isClient && <ReactTooltip multiline={true} />}
         <h1 style={{
           textAlign: 'center',
           position: 'fixed',

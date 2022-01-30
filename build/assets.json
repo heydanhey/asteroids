@@ -1,5 +1,5 @@
 {
-  "version": "5c8d522a",
+  "version": "81b8a147",
   "entry": {
     "module": "/build/entry.client-CYTLVECA.js",
     "imports": [
@@ -20,12 +20,12 @@
       "id": "routes/index",
       "parentId": "root",
       "index": true,
-      "module": "/build/routes/index-IBJD35FV.js",
+      "module": "/build/routes/index-7GNCHLP7.js",
       "hasAction": false,
       "hasLoader": true,
       "hasCatchBoundary": false,
       "hasErrorBoundary": false
     }
   },
-  "url": "/build/manifest-5C8D522A.js"
+  "url": "/build/manifest-81B8A147.js"
 }
