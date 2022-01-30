@@ -1,16 +1,16 @@
 {
-  "version": "f2f70146",
+  "version": "fcb7c265",
   "entry": {
-    "module": "/build/entry.client-X2O2EISC.js",
+    "module": "/build/entry.client-CYTLVECA.js",
     "imports": [
-      "/build/_shared/chunk-2L6YX5YF.js"
+      "/build/_shared/chunk-UKE6ZMBJ.js"
     ]
   },
   "routes": {
     "root": {
       "id": "root",
       "path": "",
-      "module": "/build/root-AHKEPOXX.js",
+      "module": "/build/root-TNVHBVTQ.js",
       "hasAction": false,
       "hasLoader": false,
       "hasCatchBoundary": false,
@@ -20,12 +20,12 @@
       "id": "routes/index",
       "parentId": "root",
       "index": true,
-      "module": "/build/routes/index-PZSFXPS3.js",
+      "module": "/build/routes/index-2U2JPQEN.js",
       "hasAction": false,
       "hasLoader": true,
       "hasCatchBoundary": false,
       "hasErrorBoundary": false
     }
   },
-  "url": "/build/manifest-F2F70146.js"
+  "url": "/build/manifest-FCB7C265.js"
 }
