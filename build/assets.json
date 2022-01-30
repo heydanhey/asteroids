@@ -1,16 +1,16 @@
 {
-  "version": "81b8a147",
+  "version": "f2f70146",
   "entry": {
-    "module": "/build/entry.client-CYTLVECA.js",
+    "module": "/build/entry.client-X2O2EISC.js",
     "imports": [
-      "/build/_shared/chunk-UKE6ZMBJ.js"
+      "/build/_shared/chunk-2L6YX5YF.js"
     ]
   },
   "routes": {
     "root": {
       "id": "root",
       "path": "",
-      "module": "/build/root-TNVHBVTQ.js",
+      "module": "/build/root-AHKEPOXX.js",
       "hasAction": false,
       "hasLoader": false,
       "hasCatchBoundary": false,
@@ -20,12 +20,12 @@
       "id": "routes/index",
       "parentId": "root",
       "index": true,
-      "module": "/build/routes/index-7GNCHLP7.js",
+      "module": "/build/routes/index-PZSFXPS3.js",
       "hasAction": false,
       "hasLoader": true,
       "hasCatchBoundary": false,
       "hasErrorBoundary": false
     }
   },
-  "url": "/build/manifest-81B8A147.js"
+  "url": "/build/manifest-F2F70146.js"
 }
