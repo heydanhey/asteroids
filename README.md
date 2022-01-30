@@ -1,4 +1,16 @@
-# Welcome to Remix!
+# Welcome to Asteroids!
+
+![Asteroids](./asteroid-icon.png)
+
+## NASA Open API
+
+- [api.nasa.gov](https://api.nasa.gov/)
+
+## Demo
+
+- [asteroids.fly.dev/](https://asteroids.fly.dev/)
+
+## Built using Remix
 
 - [Remix Docs](https://remix.run/docs)
 
