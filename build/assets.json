@@ -1,16 +1,16 @@
 {
-  "version": "a7eb3997",
+  "version": "5c8d522a",
   "entry": {
-    "module": "/build/entry.client-X2O2EISC.js",
+    "module": "/build/entry.client-CYTLVECA.js",
     "imports": [
-      "/build/_shared/chunk-2L6YX5YF.js"
+      "/build/_shared/chunk-UKE6ZMBJ.js"
     ]
   },
   "routes": {
     "root": {
       "id": "root",
       "path": "",
-      "module": "/build/root-3N4G4PNL.js",
+      "module": "/build/root-TNVHBVTQ.js",
       "hasAction": false,
       "hasLoader": false,
       "hasCatchBoundary": false,
@@ -20,12 +20,12 @@
       "id": "routes/index",
       "parentId": "root",
       "index": true,
-      "module": "/build/routes/index-UJUHD6BU.js",
+      "module": "/build/routes/index-IBJD35FV.js",
       "hasAction": false,
       "hasLoader": true,
       "hasCatchBoundary": false,
       "hasErrorBoundary": false
     }
   },
-  "url": "/build/manifest-A7EB3997.js"
+  "url": "/build/manifest-5C8D522A.js"
 }
